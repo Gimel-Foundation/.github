@@ -1,7 +1,7 @@
 ## Welcome to Gimel Foundation
 
 Legal Provisions for users of this page:
-Please see the Legal Provisions under https://gimel-foundation.com
+Please see the Legal Provisions under https://gimelfoundation.com
 
 In particular the following terms apply:
 - GiFo RFC 0080 Legal Provisions for the Gimel Foundation
