@@ -13,6 +13,7 @@ Gimel Foundation is aiming at leapfrogging towards a new de-facto standard in th
   - GiFo RFC0120 Python Implementation of GAuth 1.0 (coming soon)
   - GiFo RFC0130 JavaScript Implementation of GAuth 1.0 (coming soon)
   - GiFo RFC0140 Java Implementation of GAuth 1.0 (coming soon)
+  - GiFo RFC0150 Go Implementation of GAuth 1.0 (coming soon)
   - GiFo RFC0200 Gimel ID 1.0 Identity Framework (coming soon)
 
 **Legal Provisions for users of this page:**
