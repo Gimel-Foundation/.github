@@ -24,3 +24,23 @@ In particular the following terms apply:
 - GiFo RFC 0080 Legal Provisions for the Gimel Foundation
 - GiFo RFC 0090 Legal Provisions Related to Gimel Foundation Documents
 - GiFo RCC 0100 Rights Contributors Provide to the Gimel Foundation
+
+**Imprint**
+
+Gimel Foundation LDA e.c.
+
+4400 Gaia / PORTUGAL
+
+**Operated by:** Gimel Technologies GmbH
+
+**MD:** Bjørn Baunbæk, Dr. Götz G. Wehberg
+
+**Chairman of the Board:** Dr. Götz G. Wehberg
+
+**C/O** Hardtweg 31
+53639 Königswinter
+GERMANY
+
+**Registered Court:** Siegburg HRB 18660
+
+**Jurisdiction:** Germany
