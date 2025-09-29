@@ -28,15 +28,15 @@ In particular the following terms apply:
 
 **Imprint**
 
-Gimel Foundation LDA e.c.
+Gimel Foundation gGmbH i.G.
 
-4400 Gaia / PORTUGAL
+53639 Königswinter / GERMANY
 
 **Operated by:** Gimel Technologies GmbH
 
 **MD:** Bjørn Baunbæk, Dr. Götz G. Wehberg
 
-**Chairman of the Board:** Dr. Götz G. Wehberg
+**Chairman of the Board:** Daniel Hartert
 
 **C/O** Hardtweg 31
 53639 Königswinter
