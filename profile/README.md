@@ -8,15 +8,12 @@ Gimel Foundation is aiming at leapfrogging towards a new de-facto standard in th
 
 **Current and upcoming standard track documents:**
 
-  - GiFo RFC0100 The GAuth 0.1 Authorization Framework (see GiFo website)
-  - GiFo RFC0111 The GAuth 1.0 Authorization Framework (see GiFo repository under Github, here)
-  - GiFo RFC0115 Power-of-Attorney Credential Definition (see GiFo repository under Github, here)
-  - GiFo RFC0120 Python Implementation of GAuth 1.0 (coming soon)
-  - GiFo RFC0130 JavaScript Implementation of GAuth 1.0 (coming soon)
-  - GiFo RFC0140 Java Implementation of GAuth 1.0 (coming soon)
-  - GiFo RFC0150 Go Implementation of GAuth 1.0 (coming soon)
-  - GiFo RFC0190 Gimel ID 0.1 Identity Framework (see GiFo website)
-  - GiFo RFC0200 Gimel ID 1.0 Identity Framework (see GiFo repository under Github, here)
+  - GiFo RFC0110 The GAuth 0.1 Authorization Framework (GAuth) - see GiFo website
+  - GiFo RFC0111 The GAuth 1.0 Authorization Framework (GAuth) - see GiFo repository under Github, here
+  - GiFo RFC0115 Power-of-Attorney Credential Definition (PoA) - see GiFo repository under Github, here
+  - GiFo RFC0190 Gimel ID 0.1 Identity Framework (Gimel ID 0.1) - see GiFo website
+  - GiFo RFC0200 Gimel ID 1.0 Identity Framework (Gimel ID 1.0) - see GiFo repository under Github, here
+  - GiFo RFC0300 The Gimel Authentication Framework 1.0 (GAuthent) - see GiFo repository under Github, here
 
 **Legal Provisions for users of this page:**
 
