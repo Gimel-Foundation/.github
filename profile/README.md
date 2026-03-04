@@ -14,6 +14,7 @@ Gimel Foundation is aiming at leapfrogging towards a new de-facto standard in th
   - GiFo RFC0190 Gimel ID 0.1 Identity Framework (Gimel ID 0.1) - see GiFo website
   - GiFo RFC0200 Gimel ID 1.0 Identity Framework (Gimel ID 1.0) - see GiFo repository under Github, here
   - GiFo RFC0300 The Gimel Authentication Framework 1.0 (GAuthent) - see GiFo repository under Github, here
+  - GiFo RFC0400 Robot Authorization Protocol 1.0 (G-ROS) - see GiFo repository under Github, here
 
 **Legal Provisions for users of this page:**
 
