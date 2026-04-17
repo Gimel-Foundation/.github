@@ -19,6 +19,7 @@ Gimel Foundation is aiming at leapfrogging towards a new de-facto standard in th
   - GiFo RFC0127 GAuth Open Core Rust SDK - see GiFo repository under GitHub, here
   - GiFo RFC0128 GAuth Open Core Go SDK - see GiFo repository under GitHub, here
   - GiFo RFC0129 GAuth Open Core Net SDK - see GiFo repository under GitHub, here
+  - GiFo RFC0140 G-AGT Integration Profile - see GiFo repository under GitHub, here
   - GiFo RFC0190 Gimel ID 0.1 Identity Framework (Gimel ID 0.1) - see GiFo website
   - GiFo RFC0200 Gimel ID 1.0 Identity Framework (Gimel ID 1.0) - see GiFo repository under Github, here
   - GiFo RFC0300 The Gimel Authentication Framework 1.0 (GAuthent) - see GiFo repository under Github, here
