@@ -22,6 +22,7 @@ Gimel Foundation is aiming at leapfrogging towards a new de-facto standard in th
   - GiFo RFC0130 AI Governance Tool Evaluation - see GiFo repository under GitHub, here
   - GiFo RFC0140 G-AGT Integration Profile - Combined Credential- and Platform-bound Enforcement (CCPE-A) - see GiFo repository under GitHub, here
   - GiFo RFC0150 G-PaC Integration Profile - Combined Credential- and Platform-bound Enforcement (CCPE-B) - see GiFo repository under GitHub, here
+  - GiFo RFC0160 G-Com Integration Profile - Combined Credential- and Platform-bound Enforcement (CCPE-C) - see GiFo repository under GitHub, here
   - GiFo RFC0190 Gimel ID 0.1 Identity Framework (Gimel ID 0.1) - see GiFo website
   - GiFo RFC0200 Gimel ID 1.0 Identity Framework (Gimel ID 1.0) - see GiFo repository under Github, here
   - GiFo RFC0300 The Gimel Authentication Framework 1.0 (GAuthent) - see GiFo repository under Github, here
