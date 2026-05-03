@@ -9,24 +9,25 @@ Gimel Foundation is aiming at leapfrogging towards a new de-facto standard in th
 **Current and upcoming standard track documents:**
 
   - GiFo RFC0110 The GAuth 0.1 Authorization Framework (GAuth) - see GiFo website
-  - GiFo RFC0111 The GAuth 1.0 Authorization Framework (GAuth) - see GiFo repository under Github, here
-  - GiFo RFC0115 Power-of-Attorney Credential Definition (PoA) - see GiFo repository under Github, here
-  - GiFo RFC0116 GAuth Interoperability - see GiFo repository under GitHub, here
-  - GiFo RFC0117 GAuth: Power Enforcement Point - see GiFo repository under GitHub, here
-  - GiFo RFC0118 GAuth Management API & Administration Interface - see GiFo repository under GitHub, here
-  - GiFo RFC0125 GAuth Open Core Phyton SDK - see GiFo repository under GitHub, here
-  - GiFo RFC0126 GAuth Open Core TypeScript SDK - see GiFo repository under GitHub, here
-  - GiFo RFC0127 GAuth Open Core Rust SDK - see GiFo repository under GitHub, here
-  - GiFo RFC0128 GAuth Open Core Go SDK - see GiFo repository under GitHub, here
-  - GiFo RFC0129 GAuth Open Core Net SDK - see GiFo repository under GitHub, here
-  - GiFo RFC0130 AI Governance Tool Evaluation - see GiFo repository under GitHub, here
-  - GiFo RFC0140 G-AGT Integration Profile - Combined Credential- and Platform-bound Enforcement (CCPE-A) - see GiFo repository under GitHub, here
-  - GiFo RFC0150 G-PaC Integration Profile - Combined Credential- and Platform-bound Enforcement (CCPE-B) - see GiFo repository under GitHub, here
-  -   - GiFo RFC0180 G-Code Integration Profile - Combined Credential- and Platform-bound Enforcement (CCPE-D) - see GiFo repository under GitHub, here
+  - GiFo RFC0111 The GAuth 1.0 Authorization Framework (GAuth) - see repository, here
+  - GiFo RFC0115 Power-of-Attorney Credential Definition (PoA) - see repository, here
+  - GiFo RFC0116 GAuth Interoperability - see repository, here
+  - GiFo RFC0117 GAuth: Power Enforcement Point - see repository, here
+  - GiFo RFC0118 GAuth Management API & Administration Interface - see repository, here
+  - GiFo RFC0125 GAuth Open Core Phyton SDK - see repository, here
+  - GiFo RFC0126 GAuth Open Core TypeScript SDK - see repository, here
+  - GiFo RFC0127 GAuth Open Core Rust SDK - see repository, here
+  - GiFo RFC0128 GAuth Open Core Go SDK - see repository, here
+  - GiFo RFC0129 GAuth Open Core Net SDK - see repository, here
+  - GiFo RFC0130 AI Governance Tool Evaluation - see repository, here
+  - GiFo RFC0140 G-AGT Integration Profile - CCPE-A - see repository, here
+  - GiFo RFC0150 G-PaC Integration Profile - CCPE-B - see repository, here
+  - GiFo RFC0160 G-Com Integration Profile - CCPE-C - see repository, here
+  - GiFo RFC0180 G-Code Integration Profile - CCPE-D - see repository, here
   - GiFo RFC0190 Gimel ID 0.1 Identity Framework (Gimel ID 0.1) - see GiFo website
-  - GiFo RFC0200 Gimel ID 1.0 Identity Framework (Gimel ID 1.0) - see GiFo repository under Github, here
-  - GiFo RFC0300 The Gimel Authentication Framework 1.0 (GAuthent) - see GiFo repository under Github, here
-  - GiFo RFC0400 Robot Authorization Protocol 1.0 (G-ROS) - see GiFo repository under Github, here
+  - GiFo RFC0200 Gimel ID 1.0 Identity Framework (Gimel ID 1.0) - see repository, here
+  - GiFo RFC0300 The Gimel Authentication Framework 1.0 (GAuthent) - see repository, here
+  - GiFo RFC0400 Robot Authorization Protocol 1.0 (G-ROS) - see repository, here
 
 **Legal Provisions for users of this page:**
 
