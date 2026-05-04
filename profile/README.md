@@ -26,6 +26,7 @@ Gimel Foundation is aiming at leapfrogging towards a new de-facto standard in th
   - GiFo RFC0180 G-Code Integration Profile - CCPE-D - see repository, here
   - GiFo RFC0190 Gimel ID 0.1 Identity Framework (Gimel ID 0.1) - see GiFo website
   - GiFo RFC0200 Gimel ID 1.0 Identity Framework (Gimel ID 1.0) - see repository, here
+  - GiFo RFC0210 G-IBE Integration Profile - CCPE-G - see repository, here
   - GiFo RFC0300 The Gimel Authentication Framework 1.0 (GAuthent) - see repository, here
   - GiFo RFC0400 Robot Authorization Protocol 1.0 (G-ROS) - see repository, here
 
