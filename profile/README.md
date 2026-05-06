@@ -23,6 +23,7 @@ Gimel Foundation is aiming at leapfrogging towards a new de-facto standard in th
   - GiFo RFC0140 G-AGT Integration Profile - CCPE-A - see repository, here
   - GiFo RFC0150 G-PaC Integration Profile - CCPE-B - see repository, here
   - GiFo RFC0160 G-Com Integration Profile - CCPE-C - see repository, here
+  - GiFo RFC0170 G-Commerce Integration Profile - CCPE-F - see repository, here
   - GiFo RFC0180 G-Code Integration Profile - CCPE-D - see repository, here
   - GiFo RFC0190 Gimel ID 0.1 Identity Framework (Gimel ID 0.1) - see GiFo website
   - GiFo RFC0200 Gimel ID 1.0 Identity Framework (Gimel ID 1.0) - see repository, here
