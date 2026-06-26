@@ -14,6 +14,7 @@ Gimel Foundation is aiming at leapfrogging towards a new de-facto standard in th
   - GiFo RFC0116 GAuth Interoperability - see repository, here
   - GiFo RFC0117 GAuth: Power Enforcement Point - see repository, here
   - GiFo RFC0118 GAuth Management API & Administration Interface - see repository, here
+  - GiFo RFC0119 GAuth Identity Assertion Bindings - see repository, here
   - GiFo RFC0125 GAuth Open Core Phyton SDK - see repository, here
   - GiFo RFC0126 GAuth Open Core TypeScript SDK - see repository, here
   - GiFo RFC0127 GAuth Open Core Rust SDK - see repository, here
