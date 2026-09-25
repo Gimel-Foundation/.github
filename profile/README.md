@@ -33,6 +33,7 @@ Gimel Foundation is aiming at leapfrogging towards a new de-facto standard in th
   - GiFo RFC0300 The Gimel Authentication Framework 1.0 (GAuthent) - see repository, here
   - GiFo RFC0400 Robot Authorization Protocol 1.0 (G-ROS) - see repository, here
   - GiFo RFC0420 G-IoT Integration Profile - CCPE-E - see repository, here
+  - GiFo RFC0500 Authority Aware Underwriting - see repository, here
 
 **Legal Provisions for users of this page:**
 
